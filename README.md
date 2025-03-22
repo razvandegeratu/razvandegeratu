@@ -6,8 +6,7 @@ I'm a Computer Science student at the Polytechnic University of Bucharest, passi
 ## 🎓 Education
 - **2023-2027** | Bachelor's Degree in Computer Science, Engineering
   *Polytechnic University of Bucharest, Faculty of Automatic Control and Computer Science*
-- **2019-2023** | Mathematics and Informatics High School
-  *"Ion Minulescu" High School*
+
 
 ## 💻 Skills
 - **Languages:** Java, C, Python, Assembly, MatLab
@@ -42,9 +41,6 @@ I'm a Computer Science student at the Polytechnic University of Bucharest, passi
   
 - **Bitdefender Hackathon Participant** (2024)
   *Six-hour hackathon focusing on teamwork and coordination*
-  
-- **Udemy Certificate for C Competence** (2024)
-  *Comprehensive study of C programming, from basics to advanced concepts including multithreading*
 
 ## 📫 Connect With Me
 - Email: razvandegeratu02@gmail.com
@@ -56,5 +52,3 @@ I'm a Computer Science student at the Polytechnic University of Bucharest, passi
 - Improving my skills in algorithm optimization
 - Contributing to open-source projects
 
----
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
